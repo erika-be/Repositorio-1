@@ -1,0 +1,27 @@
+*{ box-sizing: border-box;
+display: inline-block;
+}
+
+a{
+    font-size: 18px;
+    font-weight: 200;
+    color: black;
+    cursor: pointer;
+    
+}
+
+
+button{ 
+    font-size: 27px;
+    font-weight: 500;
+    background: forestgreen;
+    cursor: pointer;
+    color: bisque;
+    border-radius: 62%;
+    border-color: black;
+}
+
+h1{ 
+color: darkgreen;
+}
+
